@@ -1,1 +1,1 @@
-# DSA & Comp Programming
+# DSA & Computational Programming
