@@ -1,1 +1,1 @@
-# DSA & Competitive Programming
+# DSA & Comp Programming
